@@ -82,7 +82,7 @@ Password: 123soleil
 **Deliverable 3:**
 
 Add a screenshot of the page you created in Drupal to the report.
-[Screenshot]: Drupal_Front_Page.PNG 
+![Screenshot]: (images/Drupal_Front_Page.PNG) 
 
 Add the elastic IP Address you created to the report.
 ```http://34.248.10.103/```
